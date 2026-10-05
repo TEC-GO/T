@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/T.dir/link.d CMakeFiles/T.dir/src/main.cpp.o CMakeFiles/T.dir/src/lexer/lexer.cpp.o CMakeFiles/T.dir/src/parser/parser.cpp.o CMakeFiles/T.dir/src/compiler/compiler.cpp.o CMakeFiles/T.dir/src/codegen/codegen.cpp.o -o T

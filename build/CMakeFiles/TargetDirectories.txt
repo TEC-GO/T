@@ -1,0 +1,3 @@
+/home/benicio/Escritorio/T/build/CMakeFiles/T.dir
+/home/benicio/Escritorio/T/build/CMakeFiles/edit_cache.dir
+/home/benicio/Escritorio/T/build/CMakeFiles/rebuild_cache.dir
